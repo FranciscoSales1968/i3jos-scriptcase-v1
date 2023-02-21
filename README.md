@@ -14,5 +14,8 @@ login e senha: i3git
 - Utilizamos o banco de dados mysql
 - lingugagem: PHP
 - Ferramente RAD - scriptcase.
+- Registrado no INPI. 
+- Suporte: (85) 98824-9968
+
 
 
